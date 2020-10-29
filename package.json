@@ -1,0 +1,10 @@
+{
+  "name": "Ceker Mambu",
+  "version": "1.0.0",
+  "description": "Dont be a dick",
+  "author": "fairuzmn",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "2.6.1"
+  }
+}
