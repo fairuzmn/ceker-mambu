@@ -39,13 +39,13 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
-    $ yarn install
+    $ git clone https://github.com/fairuzmn/ceker-mambu.git
+    $ cd ceker-mambu
+    $ npm install node-fetch
 
 ## Create CC List
 
-Create file  `list.txt` then edit it with your own list. You will need : 
+Edit `list.txt` with your own list. You will need : 
 
 - CC Number
 - CC Expired Date 
