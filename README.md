@@ -1,6 +1,6 @@
 # Ceker Mambu 
 
-Free API from malenk.io  
+Free API checker from [Malenk IO](http://malenk.io/)
 
 ---
 ## Requirements
