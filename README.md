@@ -41,7 +41,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ git clone https://github.com/fairuzmn/ceker-mambu.git
     $ cd ceker-mambu
-    $ npm install node-fetch
+    $ npm install
 
 ## Create CC List
 
